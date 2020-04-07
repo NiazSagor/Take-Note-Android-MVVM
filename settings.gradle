@@ -1,0 +1,2 @@
+rootProject.name='ArchitectureComp'
+include ':app'
